@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: wisecow
-          image: wisecow:latest
+          image: shivagorasa/wisecow:latest
           ports:
             - containerPort: 4499
 
